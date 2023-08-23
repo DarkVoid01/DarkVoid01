@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkVoid01
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning javascript
+- 👀 I’m a frontend web developer (React)
+- 🌱 I’m currently learning NEXT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arnoldeny15@gmail.com
 
